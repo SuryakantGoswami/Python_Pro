@@ -13,3 +13,5 @@ class Test1(Test):
 obj_Test1 = Test1()
 obj_Test1.Emp(1111,2222)
 print(obj_Test1.showData())
+
+# ne line
